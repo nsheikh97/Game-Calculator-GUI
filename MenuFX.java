@@ -101,7 +101,7 @@ public class MenuFX {
             mainScene.setRoot(new ScorePadFX(mainScene, vboxMain).getScoreScene());
         });
         cardDealerBtn.setOnAction(e -> {
-        mainScene.setRoot(new CardDealerFX(mainScene, vboxMain).getCardDealerScene());
+            mainScene.setRoot(new CardDealerFX(mainScene, vboxMain).getCardDealerScene());
          });
         //exit
         exitBtn.setOnAction(e-> {
