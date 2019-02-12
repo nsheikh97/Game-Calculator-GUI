@@ -4,7 +4,7 @@ JavaFX implementation of game tools used during board games. (e.g timer, card de
 *For more detailed documentation of classes and methods, visit the [javadoc](http://people.tamu.edu/~nabeelsheikh97/)*
 
 # Application Layout
-#### Menu
+#### [Menu](#menu)
 + [Dice](#dice)
 + [Timer](#timer)
 + [Score Pad](#score-pad)
