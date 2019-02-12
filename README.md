@@ -1,53 +1,28 @@
 # Game-Calculator-GUI
 JavaFX implementation of game tools used during board games. (e.g timer, shuffler, dice roller, score keeper)
 
+*For more detailed documentation of classes and methods, visit the [javadoc](http://people.tamu.edu/~nabeelsheikh97/)*
+
 # Menu
+Choose a game tool to use:
 
+![alt text][menu]
 
+[menu]: https://github.com/nsheikh97/Game-Calculator-GUI/blob/master/images/menu.png "Menu"
 
-**test.txt**
-```sh
-http://www.google.com
-http://irl.cs.tamu.edu
+# Dice
+Choose # of sides, roll the dice:
 
-```
-**Shell**
-```sh
-./hw1p2.exe 1 test.txt
+ 
+![alt text][dice]
 
-```
-### Example Output:
-
-```sh
-Opened test.txt with size 47
-URL: http://www.google.com
-        Parsing URL... host www.google.com, port 80
-        Checking host uniqueness...passed
-        Doing DNS...done in 4 ms Found 216.58.193.132
-        Checking IP uniqueness...passed
-        Connecting on robots...done in 16 ms
-        Loading...done in 24 ms with 326 bytes
-        Verifying Header...status code 200
-URL: http://irl.cs.tamu.edu
-        Parsing URL... host irl.cs.tamu.edu, port 80
-        Checking host uniqueness...passed
-        Doing DNS...done in 0 ms Found 128.194.135.72
-        Checking IP uniqueness...passed
-        Connecting on robots...done in 9 ms
-        Loading...done in 18 ms with 155 bytes
-        Verifying Header...status code 404
-       *Connecting on page...done in 10 ms
-        Loading...done in 33 ms with 6885 bytes
-        Verifying Header...status code 200
-       +Parsing page...done in 0 ms with 11 links
-```
+[dice]: https://github.com/nsheikh97/Game-Calculator-GUI/blob/master/images/dicegif.gif "Dice"
 
 ## Version:
 
-**1.0** // Currently only supports 1 thread
+**1.0** // Current support for timer, dice, scorepad, and card dealer
 
 ## Experience
-+ Using WinSock2
-+ Using recv with dynamic buffer
-+ Performing DNS lookup
-+ Sending GET and HEAD HTTP requests
++ Using JavaFX
++ Self-documenting code using Javadoc
++ Implementing style sheet for UI design
