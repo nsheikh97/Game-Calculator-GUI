@@ -1,0 +1,89 @@
+#gameButton{
+    -fx-font-family: "Courier New";
+    -fx-background-radius: 10;
+    -fx-padding: 30 0;
+    -fx-background-color: #05A8AA;
+    -fx-text-fill: #B8D5B8;
+    -fx-font-size: 1.5em
+}
+
+#exitButton{
+    -fx-font-family: "Courier New";
+    -fx-background-radius: 10;
+    -fx-padding: 10 0;
+    -fx-background-color: #FFC857;
+    -fx-text-fill: #19647E;
+    -fx-font-size: 1.5em;
+}
+
+#resetButton{
+    -fx-font-family: "Courier New";
+    -fx-background-radius: 10;
+    -fx-padding: 10 0;
+    -fx-background-color: #9B1D20;
+    -fx-text-fill: #B8D5B8;
+    -fx-font-size: 1.5em;
+}
+
+#startButton{
+    -fx-font-family: "Courier New";
+    -fx-background-radius: 10;
+    -fx-padding: 10 0;
+    -fx-text-fill: #19647E;
+    -fx-background-color: #03CEA4;
+    -fx-font-size: 1.5em;
+}
+
+#highlight{
+    -fx-font-family: "Courier New";
+    -fx-text-fill: #B8D5B8;
+    -fx-font-size: 1.5em;
+    -fx-border-radius: 20 20 20 20;
+    -fx-background-radius: 20 20 20 20;
+    -fx-background-color: #270722;
+    -fx-padding: 10 25;
+    -fx-alignment: center;
+}
+
+#title{
+    -fx-font-family: "Courier New";
+    -fx-font-size: 2.5em;
+    -fx-text-fill: #B8D5B8;
+    -fx-alignment: center;
+}
+
+#subtitle{
+    -fx-font-family: "Courier New";
+    -fx-padding: 10 0;
+    -fx-font-size: 1.5em;
+    -fx-text-fill: #05A8AA;
+}
+
+#time{
+    -fx-font-family: "Courier New";
+    -fx-font-size: 8em;
+    -fx-text-fill: #B8D5B8;
+    -fx-alignment: center;
+}
+
+#textArea {
+    -fx-font-family: "Courier New";
+    -fx-text-fill: #05A8AA;
+    -fx-font-size: 1.5em;
+    -fx-border-radius: 20 20 20 20;
+    -fx-background-radius: 20 20 20 20;
+    -fx-background-color: #B8D5B8;
+    -fx-padding: 10 25;
+    -fx-alignment: center;
+}
+
+#resultArea {
+    -fx-font-family: "Courier New";
+    -fx-text-fill: #19647E;
+    -fx-font-size: 1.5em;
+    -fx-border-radius: 20 20 20 20;
+    -fx-background-radius: 20 20 20 20;
+    -fx-background-color: #03CEA4;
+    -fx-padding: 10 25;
+    -fx-alignment: center;
+}
