@@ -6,9 +6,9 @@ JavaFX implementation of game tools used during board games. (e.g timer, card de
 # Application Layout
 #### Menu
 + [Dice](#dice)
-+ Timer
-+ Score Pad
-+ Card Dealer
++ [Timer](#timer)
++ [Score Pad](#score-pad)
++ [Card Dealer](#card-dealer)
 
 # Menu
 Choose a game tool to use:
