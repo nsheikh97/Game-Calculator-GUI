@@ -13,7 +13,6 @@ Choose a game tool to use:
 # Dice
 Choose # of sides, roll the dice:
 
- 
 ![alt text][dice]
 
 [dice]: https://github.com/nsheikh97/Game-Calculator-GUI/blob/master/images/dicegif.gif "Dice"
@@ -25,6 +24,20 @@ Choose minutes and seconds, start the timer:
 ![alt text][timer]
 
 [timer]: https://github.com/nsheikh97/Game-Calculator-GUI/blob/master/images/timer.gif "Timer"
+
+# Score Pad
+Choose number of players, add score to specified player:
+
+![alt text][score]
+
+[score]: https://github.com/nsheikh97/Game-Calculator-GUI/blob/master/images/scorepad.gif "Score Pad"
+
+# Card Dealer
+Deal desired # of cards and even shuffle:
+
+![alt text][card]
+
+[card]: https://github.com/nsheikh97/Game-Calculator-GUI/blob/master/images/cardDealer.gif "Card Dealer"
 
 ## Version:
 
