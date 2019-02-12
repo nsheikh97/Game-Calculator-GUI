@@ -16,7 +16,15 @@ Choose # of sides, roll the dice:
  
 ![alt text][dice]
 
-[dice]: https://github.com/nsheikh97/Game-Calculator-GUI/blob/master/images/dicegif.gif "Dice"
+[dice]: https://github.com/nsheikh97/Game-Calculator-GUI/blob/master/images/dice.gif "Dice"
+
+# Timer
+Choose minutes and seconds, start the timer:
+
+
+![alt text][timer]
+
+[timer]: https://github.com/nsheikh97/Game-Calculator-GUI/blob/master/images/timer.gif "Timer"
 
 ## Version:
 
