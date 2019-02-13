@@ -52,5 +52,6 @@ Deal desired # of cards and even shuffle:
 
 ## Experience
 + Using JavaFX
++ Java lambda functions
 + Self-documenting code using Javadoc
 + Implementing style sheet for UI design
